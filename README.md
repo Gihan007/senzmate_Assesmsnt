@@ -16,7 +16,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit** that
 
 ## ⚙️ Project Flow
 
-```mermaid
+
 graph TD
     A[User uploads data (Link, PDF, DOCX, TXT, Text)] --> B[Process Input and Split Text]
     B --> C[Generate Embeddings using HuggingFace]
