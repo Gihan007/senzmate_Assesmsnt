@@ -75,13 +75,7 @@ WEAVIATE_URL=https://your-weaviate-instance-url
 streamlit run app.py
 ```
 
-2️⃣ The app will open in your default browser at:
-
-```
-http://localhost:8501
-```
-
----
+2️⃣ The app will open in your default browser:
 
 ## 📝 How to Use
 
