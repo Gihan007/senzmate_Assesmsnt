@@ -1,4 +1,4 @@
-# 🧠 RAG ChatBot - Conversational AI
+# 🧠  Document-Based Question Answering Application Using RAG system
 
 A **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit** that allows users to upload or link to documents (PDF, DOCX, TXT, web links, or raw text), process them into embeddings using **HuggingFace**, store in a **Weaviate** vector database, and interact with the knowledge base via a conversational AI powered by **Groq's LLM**.
 
@@ -168,6 +168,6 @@ MIT License.
 ## 👤 Developer Info
 
 Developed for **Senzmate Interview Demo** by **Gihan Lakmal** 🚀
-📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-💻 GitHub: [your-github-profile](https://github.com/yourusername)
+📧 Email: gihanlakmal007@gmail.com
+
 
